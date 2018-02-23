@@ -1,0 +1,17 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<!-- Copyright 2018 Annadurai
+     License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html). -->
+
+<odoo>
+    <record id="animated_view_order_tree" model="ir.ui.view">
+        <field name="name">sale.order.tree</field>
+        <field name="model">sale.order</field>
+        <field name="inherit_id" ref="sale.view_order_tree" />
+        <field name="arch" type="xml">
+            <field name="name" position="before">
+            <button name="action_done"  string="UnLocked" type="object" icon="fa fa-unlock fa-lg text-success" class="animated tada" attrs="{'invisible': [('state', '=', 'done')]}"/> 
+            <button name="action_unlock"  string="Locked" type="object" icon="fa fa-lock fa-lg text-danger" class="animated bounce" attrs="{'invisible': [('state', '!=', 'done')]}"/>
+            </field>
+        </field>
+    </record>
+</odoo>
