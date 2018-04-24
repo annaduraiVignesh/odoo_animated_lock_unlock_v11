@@ -5,31 +5,31 @@
     <data>
         <template id="animated_assets_backend_tree_edits" name="form lock" inherit_id="web.assets_backend">
             <xpath expr=".">
-                        <link rel="stylesheet" href="/animated_lock_unlock_tree/static/src/css/animate.css"/>
+            <link rel="stylesheet" href="/animated_lock_unlock_tree/static/src/css/animate.css"/>
                
-                <script type="application/javascript" src="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/js/alertify.js"/> 
-               <script type="application/javascript" src="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/js/alertify.min.js"/> 
+                <script type="application/javascript" src="/animated_lock_unlock_tree/static/src/js/alertify.js"/> 
+               <script type="application/javascript" src="/animated_lock_unlock_tree/static/src/js/alertify.min.js"/> 
                
-               <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/alertify.css"/>
-               <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/alertify.min.css"/>
-               <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/alertify.rtl.css"/>
-               <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/alertify.rtl.min.css"/>
+               <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/alertify.css"/>
+               <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/alertify.min.css"/>
+               <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/alertify.rtl.css"/>
+               <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/alertify.rtl.min.css"/>
                
-                <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/themes/bootstrap.css"/>
+                <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/bootstrap.css"/>
                  <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/bootstrap.min.css"/>
-                  <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/themes/bootstrap.rtl.css"/>
-                   <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/themes/bootstrap.rtl.min.css"/>
-                    <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/themes/default.css"/>
-                     <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/themes/default.min.css"/>
-                      <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/themes/default.rtl.css"/>
+                  <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/bootstrap.rtl.css"/>
+                   <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/bootstrap.rtl.min.css"/>
+                    <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/default.css"/>
+                     <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/default.min.css"/>
+                      <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/default.rtl.css"/>
                        <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/default.rtl.min.css"/>
-                        <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/themes/semantic.css"/>
-                         <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/themes/semantic.min.css"/>
-                         <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/themes/semantic.rtl.css"/>
-                         <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/themes/semantic.rtl.min.css"/> 
+                        <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/semantic.css"/>
+                         <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/semantic.min.css"/>
+                         <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/semantic.rtl.css"/>
+                         <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/themes/semantic.rtl.min.css"/> 
                
-               <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_treeanimated_lock_unlock_tree/static/src/css/cssfile.css"/>
-               <script type="application/javascript" src="/animated_lock_unlock_tree/static/src/js/main_block.js"/>    
+               <link rel="stylesheet" type="text/css" href="/animated_lock_unlock_tree/static/src/css/cssfile.css"/>
+               <script type="application/javascript" src="/animated_lock_unlock_tree/static/src/js/main_block.js"/>
             </xpath>
         </template>
     </data>
